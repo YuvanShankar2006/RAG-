@@ -48,15 +48,7 @@ The RAG model enhances language generation by incorporating external knowledge r
 
 ## Screenshots
 
-*(Add screenshots of the Streamlit app UI here for better illustration.)*
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
-
-## License
-
-*(Specify the license here if available.)*
+![DMeX Pro Smart Assistant Screenshot](images/screenshot1.png)
 
 ## Contact
 
