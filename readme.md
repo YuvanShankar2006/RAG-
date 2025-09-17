@@ -1,4 +1,4 @@
-# RAG-
+# RAG
 
 This repository contains a Retrieval-Augmented Generation (RAG) model developed specifically for DMeX Pro Documentation using Python and Streamlit.
 
